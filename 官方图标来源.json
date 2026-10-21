@@ -1,0 +1,149 @@
+{
+  "note": "Official App Store app artwork. Apple artwork © Apple; third-party artwork belongs to respective publishers. Downloaded unchanged; rounded masking is CSS only.",
+  "apps": {
+    "netease": {
+      "trackId": 590338362,
+      "name": "网易云音乐-数亿音乐畅听",
+      "publisher": "杭州网易云音乐科技有限公司",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/84/5f/2d845fe3-b1fc-b57b-d6d7-fe5ae6a468f5/appIconNew-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "mime": "image/jpeg",
+      "sha256": "2dc62d28f679f5d8ae21217e70ec397d0d757bff7953d79eb2178cf93cc4582e"
+    },
+    "onepiece": {
+      "trackId": 1512093373,
+      "name": "航海王热血航线-正版授权",
+      "publisher": "Beijing Zhaoxiguangnian Information Technology Co., Ltd",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/8d/62/738d625d-34f1-59aa-fa80-72cc1e86d133/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "mime": "image/jpeg",
+      "sha256": "d51bac6c22571827e06284ade9c8dd81cb1a1f60e4f15eb4b3096ac9a439fdd5"
+    },
+    "zuoyebang": {
+      "trackId": 803781859,
+      "name": "作业帮-新学期高效伴学 中小学家长作业检查辅导",
+      "publisher": "Guangzhou Polar Future Culture Technology Co., Ltd",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/54/33/07543391-57e3-fedf-d06f-f73b4aec3048/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "mime": "image/jpeg",
+      "sha256": "f7c50715ce86e8defee62fc72cd791282234ce7ef1113cd4f536955620d5d419"
+    },
+    "xuexitong": {
+      "trackId": 977946724,
+      "name": "学习通",
+      "publisher": "Beijing Chaoxing Digital Library Information Technology Co., Ltd.",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/0b/c9/900bc900-e79b-b6f3-007a-52678a40df36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "mime": "image/jpeg",
+      "sha256": "18fbee8dbff3d7bce2128e2f262be9eaa46950d925f923d162163a68e05682a3"
+    },
+    "facetime": {
+      "trackId": 1110145091,
+      "name": "FaceTime 通话",
+      "publisher": "Apple",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/05/6a/b1056a9b-6401-b268-31db-89e724d65054/facetimeCalistoga-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "mime": "image/jpeg",
+      "sha256": "303e12a03902127abc94eab6a46e154d8aeedd9fb50ec907b151266d1b96480e"
+    },
+    "calendar": {
+      "trackId": 1108185179,
+      "name": "日历",
+      "publisher": "Apple",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/5a/cd/ca5acd85-c64d-f468-00f9-50fdc4819e59/calendarCalistoga-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "mime": "image/jpeg",
+      "sha256": "6318ddb858413b0447420b30740212e15574a885c4641900fd19e8539bf9e910"
+    },
+    "gallery": {
+      "trackId": 1584215428,
+      "name": "照片",
+      "publisher": "Apple",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/6e/79/726e7943-4a7d-091d-3c55-1d46477cdf08/photosCalistoga-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "mime": "image/jpeg",
+      "sha256": "7180f14dc105ac19409df177af548b25faf07bed1deaa835c5615dc9b38fc175"
+    },
+    "camera": {
+      "trackId": 1584216193,
+      "name": "相机",
+      "publisher": "Apple",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/d6/b2/fdd6b24d-071d-b41d-045c-b72aa99cf9fa/cameraCalistoga-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "mime": "image/jpeg",
+      "sha256": "1e3a1161828bded028b1eb49ac382602bcebe18b40fc4eed6d741659b05eaa7f"
+    },
+    "mail": {
+      "trackId": 1108187098,
+      "name": "邮件",
+      "publisher": "Apple",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/20/b2/6e20b217-8f80-9b20-136f-50ee09e2937c/mailCalistoga-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "mime": "image/jpeg",
+      "sha256": "9b59ace5ffc9f36f94f22e63abec5f6d7a4d08566841731c9e9b76edbcff939d"
+    },
+    "notes": {
+      "trackId": 1110145109,
+      "name": "备忘录",
+      "publisher": "Apple",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/b1/1c/bcb11c9d-ea61-089f-3b84-0f8911dd175d/notesCalistoga-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "mime": "image/jpeg",
+      "sha256": "aded2d152b73cf1f1b86f2a906a4840a6cde7559f9946147731d71936b2ac6be"
+    },
+    "reminders": {
+      "trackId": 1108187841,
+      "name": "提醒事项",
+      "publisher": "Apple",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/b4/39/4bb43986-4714-adc7-459a-1b7c7aafff1d/remindersCalistoga-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "mime": "image/jpeg",
+      "sha256": "403c41489b7336fc76a9c22feec327d3817b4ad7a91b4db50a444d4a4fcbb262"
+    },
+    "weather": {
+      "trackId": 1069513131,
+      "name": "天气",
+      "publisher": "Apple",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/d6/cf/66d6cf2c-91a7-6c10-8bd6-54b2dc7b558e/weatherCalistoga-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "mime": "image/jpeg",
+      "sha256": "d892821d76c165f37b1fc8964a1e0809522dab5c4907974cadbbe035c6b08e3e"
+    },
+    "search": {
+      "trackId": 1146562112,
+      "name": "Safari",
+      "publisher": "Apple",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/4a/12/9b4a12c2-7ea9-9e38-4d4f-f1342b310519/safariCalistoga-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "mime": "image/jpeg",
+      "sha256": "22af82c992ed2ea73a813185f0dca3fc3fc0bb92b392829ec2e1cfe90e03ea79"
+    },
+    "phone": {
+      "trackId": 1146562108,
+      "name": "电话",
+      "publisher": "Apple",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/68/84/a36884f9-3c1d-7424-aa64-eb9523b99c33/phoneCalistoga-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "mime": "image/jpeg",
+      "sha256": "00f48742e47a6ce966b459f4a973561639ee3e6b8e8d2e51878a29001e74e562"
+    },
+    "messages": {
+      "trackId": 1146560473,
+      "name": "信息",
+      "publisher": "Apple",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/8d/32/fc8d32a0-86a7-83d8-7045-57b4b3e71a0b/messagesCalistoga-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "mime": "image/jpeg",
+      "sha256": "b447100c21f3630bd720d8f4e5729958d8ddd2519aa892cf19dfbddf65a8b7a6"
+    },
+    "wechat": {
+      "trackId": 414478124,
+      "name": "微信",
+      "publisher": "WeChat",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/70/2e/61702e05-0531-165f-5cd3-012c8b5b3b20/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "mime": "image/jpeg",
+      "sha256": "241fd6d536f1b3bd9cace17ff122abba9aeaa8aa5ea364c32cd32674e1edfe60"
+    },
+    "clock": {
+      "trackId": 1584215688,
+      "name": "Clock",
+      "publisher": "Apple",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/8e/d2/c08ed244-21b1-9bce-7199-2417712ae123/clockCalistoga-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "mime": "image/jpeg",
+      "sha256": "0d60ca5b44e804cec8042b227761fda8309270c216e49d82c92f5c90f8290b24"
+    },
+    "map": {
+      "trackId": 915056765,
+      "name": "Apple地图",
+      "publisher": "Apple",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/4d/f5/ca4df539-d60c-6a55-1423-49723876b1b0/mapsCalistoga-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "mime": "image/jpeg",
+      "sha256": "fa4d335bcb9c420775da8f397b203e1560f5b8a0cab5a472f5b70d47903c8442"
+    }
+  }
+}
